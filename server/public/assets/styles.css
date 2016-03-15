@@ -1,0 +1,65 @@
+header h1{
+    background-color: #ababab;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+
+.calc-box {
+    height: 543px;
+    width: 310px;
+    border: solid black 4px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: -45px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.text-scroll {
+    text-align: right;
+    font-family: courier;
+    font-size: 55px;
+    border: inset 4px;
+    height: 60px;
+}
+
+.photo-voltaic-container {
+    height: 55px;
+    width: 300px;
+    float: left;
+}
+
+.texas {
+    font-family: impact;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: none;
+}
+
+.cell-wrapper {
+    border: inset 4px;
+    float: right;
+}
+
+.cell{
+    border: solid black 1px;
+    background-color: #000066;
+    display: inline-block;
+    float: right;
+    height: 43px;
+    width: 25px;
+}
+
+button {
+    margin: 3px 3px 3px 10px;
+    font-size: 60px;
+    width: 60px;
+}
+
+.clear, .equals {
+    width: 137px;
+}
+
+.zero {
+    width: 137px;
+}
